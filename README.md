@@ -7,4 +7,4 @@ The purpose of this program is to fit any number of tetriminos into a square in 
 
 Optimization: O(n^2)
 
-Co - created with Sean Jones.
+Co - created with [Sean Jones](https://github.com/seanjones2848).
